@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+directorist.com	TRUE	/theme/demo/direo/	FALSE	1999999999	woocommerce_items_in_cart	1
+directorist.com	TRUE	/theme/demo/direo/	FALSE	1999999999	wp_woocommerce_session_0731e5b99aef818716f7df425bb5a563	cb5758fefc6cf864825cd7d13ee5b76c%7C%7C1572802001%7C%7C1572798401%7C%7Cec75cf05af8a4594ae2f5c2e4bf01433
+directorist.com	TRUE	/theme/demo/direo/	FALSE	1999999999	woocommerce_cart_hash	0366e724ca8db4fda62ac4432942e444
+.google.com	TRUE	/	FALSE	1999999999	NID	190=rwUqiabPD4M10krP78FaF3L0jJLectXo-eaCezOf43EYtJA9CHFkbd6i3BY-_wfCnp5dP7U2VkmDxDFkOtXqK4VASpg6teRo-_u1GpkTG7P86amHqSzfIJFZg553Lm3hBvUbqTwnOP9QpIXXw5oBghYaTWOVFbQ-0KQXOxkCAhw
+
